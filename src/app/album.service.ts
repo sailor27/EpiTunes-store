@@ -4,8 +4,8 @@ import { ALBUMS } from './mock-albums';
 
 @Injectable()
 export class AlbumService {
-
-  constructor() { }
+    albums: Album[];
+  constructor( ) { }
 
   getAlbums() {
     return ALBUMS;
@@ -18,5 +18,7 @@ export class AlbumService {
       }
     }
   }
+
+
 
 }
