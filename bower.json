@@ -13,5 +13,11 @@
   ],
   "dependencies": {
     "bootstrap": "^4.0.0"
+  },
+  "authors": [
+    "Sailor Winkelman <sailorwinkelman@gmail.com>"
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.0.0"
   }
 }

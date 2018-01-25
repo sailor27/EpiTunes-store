@@ -1,0 +1,8 @@
+.marketplace {
+	background-color: pink;
+
+}
+
+app-marketplace {
+	overflow: scroll;
+}
